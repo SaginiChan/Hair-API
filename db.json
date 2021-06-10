@@ -445,6 +445,56 @@
             }
             
 
-        ]
+        ],
+        "Stylists":[
+            {
+                "id":47,
+                "Name":"Bruce Wayne",
+                "Sex":"Male",
+                "Experience": "3 years",
+                "Tasks":["Pedicure", "Manicure", "Hair-Stylist"],
+                "Client Rating":8.5,
+                "Work Hours":"0900hrs-1600hrs"
+        },
+
+        {
+        "id":48,
+        "Name":"Clark Kent",
+        "Sex":"Male",
+        "Experience": "6 years",
+        "Tasks":["Pedicure", "Manicure", "Hair-Stylist"],
+        "Client Rating":9.5,
+        "Work Hours":"1000hrs-1800hrs"
+        },
+        {
+            "id":49,
+            "Name":"Diana Prince",
+            "Sex":"Female",
+            "Experience": "2 years",
+            "Tasks":["Pedicure", "Manicure","Masseusse", "Hair-Stylist", "Tanner"],
+            "Client Rating":7.8,
+            "Work Hours":"1100hrs-1900hrs"
+            },
+            {
+                "id":50,
+                "Name":"Amy Adams",
+                "Sex":"Female",
+                "Experience": "4.4 years",
+                "Tasks":["Pedicure", "Manicure", "Hair-Stylist","Facials"],
+                "Client Rating":8.8,
+                "Work Hours":"0900hrs-1600hrs"
+                },
+                {
+                    "id":51,
+                    "Name":"Hayley Williams",
+                    "Sex":"Female",
+                    "Experience": "7 years",
+                    "Tasks":["Pedicure", "Manicure", "Hair-Stylist", "Tanner", "Masseusse"],
+                    "Client Rating":9.8,
+                    "Work Hours":"0700hrs-1500hrs"
+                    }
+            
+    
+    ] 
     
 }
