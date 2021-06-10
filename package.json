@@ -1,0 +1,23 @@
+{
+  "name": "Hair-API",
+  "version": "1.0.0",
+  "description": "This is a personal which   has all the fields for  all the activites done in a Saloon.\r Some of the servies include\r .Manicure\r .Pedicure\r .Tanning\r .Hair treatments\r .Nail Treatments\r .Skin Treatments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaginiChan/Hair-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaginiChan/Hair-API/issues"
+  },
+  "homepage": "https://github.com/SaginiChan/Hair-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
