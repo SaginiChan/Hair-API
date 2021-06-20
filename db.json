@@ -4,279 +4,279 @@
             "id" : 0,
             "Name": " Criss-Cross Goddess Braids",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": "Perfect for days when you want to give your hair a break or when you are going on a beach vacation",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes)":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 1,
             "Name": " Dynamic Side-Swept Cornrows",
             "Stylist": "Clark-Kent",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/1-asymmetrical-side-cornrows.jpg?w=496&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/1-asymmetrical-side-cornrows.jpg?w=496&ssl=1",
             "Description": "Once the hair is in the braid, it is free of heat and manipulation for weeks on end. Plus, it’s really cute and there are endless designs to express yourself",
-            "Duration(in minutes)":210,
-            "Price(Kshs)": 3000
+            "Durationinminutes":210,
+            "PriceKshs": 3000
         },
         {
             "id" : 2,
             "Name": " Long Chunky Black Braids",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/3-african-american-thick-and-thin-braids.jpg?w=468&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/3-african-american-thick-and-thin-braids.jpg?w=468&ssl=1",
             "Description": "Chunky box braids are totally in style. With alternating thin braids, the hairdo feels very hot",
-            "Duration(in minutes)":110, 
-            "Price(Kshs)": 6600
+            "Durationinminutes":110, 
+            "PriceKshs": 6600
         },
         {
             "id" : 3,
             "Name": " Messy Spikes with Low Fade",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/3-taper-fade-with-spiked-top.jpg?resize=500%2C527&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/3-taper-fade-with-spiked-top.jpg?resize=500%2C527&ssl=1",
             "Description": " you don’t have to go too drastic, but it’s always nice to show off some contrast",
-            "Duration(in minutes)":2070
+            "Durationinminutes":2070
         },
         {
             "id" : 4,
             "Name": " Feed-In Braids",
             "Stylist": "Amy Adams",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/11-blonde-cornrows-for-black-hair.jpg?w=451&ssl=1"  ,
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/11-blonde-cornrows-for-black-hair.jpg?w=451&ssl=1"  ,
             "Description": "Perfect for days when you want to give your hair a break or when you are going on a beach vacation",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 5,
             "Name": " Criss-Cross Goddess Braids",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": "Cornrow hairstyles look more natural and less bulky by creating a narrow and flat point at the hairline",
-            "Duration(in minutes)":180,
-            "Price(Kshs)": 4090
+            "Durationinminutes":180,
+            "PriceKshs": 4090
         },
         {
             "id" : 6,
             "Name": " Messy Hawk for Women",
             "Stylist": "Clark Kent",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2013/12/1-messy-hawk-for-women.jpg?w=500&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2013/12/1-messy-hawk-for-women.jpg?w=500&ssl=1",
             "Description": "today’s mohawks are much cooler than this and are ideal for both men and women. Long and messy is a fun new way to update the classic Mohawk concept",
-            "Duration(in minutes)":20,
-            "Price(Kshs)": 400
+            "Durationinminutes":20,
+            "PriceKshs": 400
         },
         {
             "id" : 7,
             "Name": "  Temple Fade for Natural Hair",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/4-natural-fade-with-line-up.jpg?resize=500%2C542&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/4-natural-fade-with-line-up.jpg?resize=500%2C542&ssl=1",
             "Description": "This men’s cut is a great choice if you want to have short and manageable hair with natural texture",
-            "Duration(in minutes)":40,
-            "Price(Kshs)": 4200
+            "Durationinminutes":40,
+            "PriceKshs": 4200
         },
         {
             "id" : 8,
             "Name": " The Side Part Cut",
             "Stylist": "Emma Watson",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/15-the-side-partcut.jpg?resize=500%2C574&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/15-the-side-partcut.jpg?resize=500%2C574&ssl=1",
             "Description": "his haircut is ideal for those who don’t want to put a lot of time and effort into their look",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 680
+            "Durationinminutes":200,
+            "PriceKshs": 680
         },
         {
             "id" : 9,
             "Name": "Braided Ponytail",
             "Stylist": "Diana Prince",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/6-cornrows-with-a-ponytail.jpg?w=482&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/6-cornrows-with-a-ponytail.jpg?w=482&ssl=1",
             "Description": "A cornrow ponytail is great for a casual updo that won’t pull on your edges",
-            "Duration(in minutes)":160,
-            "Price(Kshs)": 2900
+            "Durationinminutes":160,
+            "PriceKshs": 2900
         },
         {
             "id" : 10,
             "Name": " Designed Mohawk Hair",
             "Stylist": "Clark Kent",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/12-womens-mohawk-with-carved-designs.jpg?w=461&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/12-womens-mohawk-with-carved-designs.jpg?w=461&ssl=1",
             "Description": " The curvy lines and triangles created in this look are super cool",
-            "Duration(in minutes)":90,
-            "Price(Kshs)": 7990
+            "Durationinminutes":90,
+            "PriceKshs": 7990
         },
         {
             "id" :11,
             "Name": " Smart Style",
             "Stylist": "Amy Adams",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": "The smart boys cut is extremely versatile and can be styled with lightweight smoothing",
-            "Duration(in minutes)":70,
-            "Price(Kshs)": 9800
+            "Durationinminutes":70,
+            "PriceKshs": 9800
         },
         {
             "id" : 12,
             "Name": "Buzz Cut with High Fade",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/7-short-natural-line-up-with-fade.jpg?resize=500%2C500&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/7-short-natural-line-up-with-fade.jpg?resize=500%2C500&ssl=1",
             "Description": "For the bearded guys out there, have your hair fade out near your temples and fade back in towards the jawline",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 13,
             "Name": "Curly Hairstyle with Crochet Braids",
             "Stylist": "Clark Kent",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/10-tree-braids-with-highlights.jpg?w=479&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/10-tree-braids-with-highlights.jpg?w=479&ssl=1",
             "Description": ". You can wear the hair down or up in a ponytail",
-            "Duration(in minutes)":80,
-            "Price(Kshs)": 5400
+            "Durationinminutes":80,
+            "PriceKshs": 5400
         },
         {
             "id" : 14,
             "Name": " Half Cornrows Half Individual Braids",
             "Stylist": "Diana Prince",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/14-creative-braided-hairstyle-for-black-women.jpg?w=485&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/14-creative-braided-hairstyle-for-black-women.jpg?w=485&ssl=1",
             "Description": "Braided hairstyles for black women are very creative and versatile",
-            "Duration(in minutes)":40,
-            "Price(Kshs)": 640
+            "Durationinminutes":40,
+            "PriceKshs": 640
         },
         {
             "id" : 15,
             "Name": "Heartbeat Babe",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/2-teal-and-blue-mohawk.jpg?w=464&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/2-teal-and-blue-mohawk.jpg?w=464&ssl=1",
             "Description": "Mohawk hairstyles that will get your heart racing, try the style donning the heartbeat symbol",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 8000
+            "Durationinminutes":200,
+            "PriceKshs": 8000
         },
         {
             "id" : 16,
             "Name": " Braided Tower",
             "Stylist": "Diana Prince",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/7-womens-mohawk-with-undershave.jpg?w=477&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/7-womens-mohawk-with-undershave.jpg?w=477&ssl=1",
             "Description": "This is a style that will work perfectly for the lucky ones with thick, coarse hair that stays in place",
-            "Duration(in minutes)":160,
-            "Price(Kshs)": 980
+            "Durationinminutes":160,
+            "PriceKshs": 980
         },
         {
             "id" : 17,
             "Name": " Textured Hairstyle for Fine Hair",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/8-pompadour-with-taper-fade.jpg?resize=500%2C500&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/8-pompadour-with-taper-fade.jpg?resize=500%2C500&ssl=1",
             "Description": " full of texture and movement, perfect for men who seek a current style with short styling time",
-            "Duration(in minutes)":26,
-            "Price(Kshs)": 2300
+            "Durationinminutes":26,
+            "PriceKshs": 2300
         },
         {
             "id" : 18,
             "Name": " Bed Head Honey",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/9-honey-blonde-pixie-undercut.jpg?w=489&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/9-honey-blonde-pixie-undercut.jpg?w=489&ssl=1",
             "Description": "low maintenance kind of gal, this is the mohawk that will take you from the sheets to the streets ",
-            "Duration(in minutes)":100,
-            "Price(Kshs)": 1400
+            "Durationinminutes":100,
+            "PriceKshs": 1400
         },
         {
             "id" : 19,
             "Name": " Upside Down Braids to Bun",
             "Stylist": "Amy Adams",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/20-box-braids-with-beads.jpg?w=469&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/20-box-braids-with-beads.jpg?w=469&ssl=1",
             "Description": "Super sleek and bold, go with upright braids. Have the cornrows lead into either a ponytail or a bun",
-            "Duration(in minutes)":30,
-            "Price(Kshs)": 4300
+            "Durationinminutes":30,
+            "PriceKshs": 4300
         },
         {
             "id" : 20,
             "Name": " Triangle Box Braids",
             "Stylist": "Diana Prince",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": " It’s unexpected, cool and gives the classic box braid a totally fresh feel",
-            "Duration(in minutes)":50,
-            "Price(Kshs)": 4800
+            "Durationinminutes":50,
+            "PriceKshs": 4800
         },
         {
             "id" : 21,
             "Name": " Glamorous Mohawk Updo",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/9-low-mohawk-updo-with-messy-braids.jpg?w=462&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/womens-mohawks/9-low-mohawk-updo-with-messy-braids.jpg?w=462&ssl=1",
             "Description": "or girls in need of a unique style for a night out (or a bold way to style a day time dress)",
-            "Duration(in minutes)":271,
-            "Price(Kshs)": 7040
+            "Durationinminutes":271,
+            "PriceKshs": 7040
         },
         {
             "id" : 22,
             "Name": "  Curled-Over Pomp Hairstyle",
             "Stylist": "Hayley Williams",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/16-pompadour-for-receding-hairline.jpg?resize=500%2C500&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/16-pompadour-for-receding-hairline.jpg?resize=500%2C500&ssl=1",
             "Description": "ou can smooth back your new pompadour, wear it high, or let it fall to a side",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 8700
+            "Durationinminutes":200,
+            "PriceKshs": 8700
         },
         {
             "id" : 23,
             "Name": " Criss-Cross Goddess Braids",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": "Perfect for days when you want to give your hair a break or when you are going on a beach vacation",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 24,
             "Name": " Large High Bun with a Headband",
             "Stylist": "Amy Adams",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/14-large-high-bun-with-a-headband.jpg?w=500&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/14-large-high-bun-with-a-headband.jpg?w=500&ssl=1",
             "Description": "Perfect for days when you want to give your hair a break or when you are going on a beach vacation",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 25,
             "Name": " Criss-Cross Goddess Braids",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2013/11/1-long-curvy-goddess-braids.jpg?resize=500%2C625&ssl=1",
             "Description": "This style overlaps three separate sections in a bun to add visual interest",
-            "Duration(in minutes)":100,
-            "Price(Kshs)": 2030
+            "Durationinminutes":100,
+            "PriceKshs": 2030
         },
         {
             "id" : 26,
             "Name": " Cute Jumbo Twist Braids",
             "Stylist": "Clark Kent",
-            "Image link": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/12-thick-long-twists-braids.jpg?w=471&ssl=1",
+            "Imagelink": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/12-thick-long-twists-braids.jpg?w=471&ssl=1",
             "Description": "Perfect for days when you want to give your hair a break or when you are going on a beach vacation",
-            "Duration(in minutes)":200,
-            "Price(Kshs)": 4000
+            "Durationinminutes":200,
+            "PriceKshs": 4000
         },
         {
             "id" : 27,
             "Name": " Two Cornrow Boxer Braids",
             "Stylist": "Amy Watson",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/16-two-black-feed-in-braids.jpg?w=496&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/1500x/black-braided-hairstyles/16-two-black-feed-in-braids.jpg?w=496&ssl=1",
             "Description": "hese absolutely look like your own hair, especially if you choose braiding hair that matches in hue",
-            "Duration(in minutes)":290,
-            "Price(Kshs)": 9800
+            "Durationinminutes":290,
+            "PriceKshs": 9800
         },
         {
             "id" : 28,
             "Name": " Micro Twist Ponytail",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2016/12/1-long-caramel-brown-micro-twists.jpg?resize=500%2C636&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2016/12/1-long-caramel-brown-micro-twists.jpg?resize=500%2C636&ssl=1",
             "Description": "This type of style allows the wearer to forgo much of the maintenance required with non-braided hairstyles",
-            "Duration(in minutes)":80,
-            "Price(Kshs)": 2300
+            "Durationinminutes":80,
+            "PriceKshs": 2300
         },
         {
             "id" : 29,
             "Name": " Rebellious Hairstyle for Curly Hair",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/2-chris-galya%E2%80%99s-rebellious-hairstyle-for-curly-hair.jpg?resize=500%2C750&ssl=1",
+            "Imagelink": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/12/2-chris-galya%E2%80%99s-rebellious-hairstyle-for-curly-hair.jpg?resize=500%2C750&ssl=1",
             "Description": "Micro twists are just like hair only polished, manageable, of the desired length and color",
-            "Duration(in minutes)":89,
-            "Price(Kshs)": 9070
+            "Durationinminutes":89,
+            "PriceKshs": 9070
         },
         {
             "id" : 30,
             "Name": "  Side Swept Twists with Beads",
             "Stylist": "Bruce Wayne",
-            "Image link": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2016/12/2-thin-twist-braids.jpg?resize=500%2C625&ssl=1",
+            "Imagelink": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2016/12/2-thin-twist-braids.jpg?resize=500%2C625&ssl=1",
             "Description": " if you want to add even more spice, consider adding in tiny-shiny embellishments for extra bling",
-            "Duration(in minutes)":40,
-            "Price(Kshs)": 5600
+            "Durationinminutes":40,
+            "PriceKshs": 5600
         }
     ],
     
@@ -287,73 +287,73 @@
                         "id":31,
                         "Name":"French Pedicure",
                         "Stylist":"Bruce Wayne",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/French-pedicured-feet.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/French-pedicured-feet.jpg",
                         "Description":" First, a clear or nude base coat is applied, followed by a solid white colored nail polish",
-                        "Duration(in minutes)":45,
-                        "Price(Kshs)": 900
+                        "Durationinminutes":45,
+                        "PriceKshs": 900
                     },
                     {
                         "id":32,
                         "Name":"Gel Pedicure",
                         "Stylist":"Clark Kent",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Gel-nail-paint-application.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Gel-nail-paint-application.jpg",
                         "Description":" What makes it special and different however is the UV light that is used to help cure the gel or nail paint after each coating",
-                        "Duration(in minutes)":45,
-                        "Price(Kshs)": 900
+                        "Durationinminutes":45,
+                        "PriceKshs": 900
                     },
                     {
                         "id":33,
                         "Name":"Paraffin Pedicure",
                         "Stylist":"Diana Prince",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Paraffin-pedicure.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Paraffin-pedicure.jpg",
                         "Description":" feet are dipped into paraffin wax which helps immensely in softening and moisturizing skin.",
-                        "Duration(in minutes)":45,
-                        "Price(Kshs)": 900
+                        "Durationinminutes":45,
+                        "PriceKshs": 900
                     },
                     {
                         "id":34,
                         "Name":"Hot Stone Pedicure",
                         "Stylist":"Amy Adams",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Hot-stone-pedicure.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Hot-stone-pedicure.jpg",
                         "Description":" The method follows a regular pedicure routine followed by body polish on the feet and legs. The mask sits under a warm towel for five minutes to provide that steam therapy",
-                        "Duration(in minutes)":16,
-                        "Price(Kshs)": 3900
+                        "Durationinminutes":16,
+                        "PriceKshs": 3900
                     },
                     {
                         "id":35,
                         "Name":"Fish Pedicure",
                         "Stylist":"Hayley Williams",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Feet-soaked-in-a-fish-pedicure.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Feet-soaked-in-a-fish-pedicure.jpg",
                         "Description":"  In this, you will be dipping your feet in an aquarium filled with tiny fish.he fish will swarm around your feet and eat away all the dirt and dead skin cells that were sticking around",
-                        "Duration(in minutes)":30,
-                        "Price(Kshs)": 6500
+                        "Durationinminutes":30,
+                        "PriceKshs": 6500
                     },
                     {
                         "id":36,
                         "Name":"Salt Pedicure",
                         "Stylist":"Bruce Wayne",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Salt-crystals.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Salt-crystals.jpg",
                         "Description":" It uses salt and rock to successfully scrub off dead skin to reveal newer cells. This step replaces other exfoliation processes in this pedicure",
-                        "Duration(in minutes)":30,
-                        "Price(Kshs)": 2960
+                        "Durationinminutes":30,
+                        "PriceKshs": 2960
                     },
                     {
                         "id":37,
                         "Name":"Margarita Pedicure",
                         "Stylist":"Bruce Wayne",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Woman-receives-a-margarita-pedicure.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Woman-receives-a-margarita-pedicure.jpg",
                         "Description":" he margarita pedicure does not exactly involve a margarita, but a lime footbath, a salt scrub, a lime-based massage oil and lime-scented moisturizer",
-                        "Duration(in minutes)":70,
-                        "Price(Kshs)": 4960
+                        "Durationinminutes":70,
+                        "PriceKshs": 4960
                     },
                     {
                         "id":38,
                         "Name":"Chocolate Pedicure",
                         "Stylist":"Bruce Wayne",
-                        "Image link":"https://www.headcurve.com/wp-content/uploads/2019/08/Chocolate-pedicure.jpg",
+                        "Imagelink":"https://www.headcurve.com/wp-content/uploads/2019/08/Chocolate-pedicure.jpg",
                         "Description":" IFor those obsessed with chocolate, this pedicure is a dream-come-true. Every single procedure and product used in this treatment is derived from the world of cocoa. It has everything from a chocolate foot soak to a cocoa moisturizing lotion",
-                        "Duration(in minutes)":69,
-                        "Price(Kshs)": 3900
+                        "Durationinminutes":69,
+                        "PriceKshs": 3900
                     }
                 ],
                 "Manicures":[
@@ -361,10 +361,10 @@
                         "id":39,
                         "Name":"Basic Polish",
                         "Stylist":"Bruce Wayne",
-                        "Image link":"https://purewows3.imgix.net/images/articles/2018_01/Basic_Polish.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
+                        "Imagelink":"https://purewows3.imgix.net/images/articles/2018_01/Basic_Polish.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
                         "Description":"Paint it on yourself or hit up your manicure spot for a pristine application (complete with hand massage, might we add)",
-                        "Duration(before it wears off)":69,
-                        "Price(Kshs)": 3900
+                        "Durationbeforeitwearsoff":69,
+                        "PriceKshs": 3900
                     },
                     {
                         "id":40,
@@ -372,35 +372,35 @@
                         "Stylist":"Hayley Williams",
                         "Image link":"https://purewows3.imgix.net/images/articles/2018_01/Shellac_Mani.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
                         "Description":" t’s basically a hybrid of gel and nail polish that’s cured and hardened with a UV light",
-                        "Duration(before it wears off)":5,
-                        "Price(Kshs)": 3900
+                        "Durationbeforeitwearsoff":5,
+                        "PriceKshs": 3900
                     },
                     {
                         "id":41,
                         "Name":"Acrylic",
                         "Stylist":"Clark Kent",
-                        "Image link":"https://purewows3.imgix.net/images/articles/2018_01/Acrylic_Nails.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
+                        "Imagelink":"https://purewows3.imgix.net/images/articles/2018_01/Acrylic_Nails.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
                         "Description":"  It’s a combination of a liquid and powder that creates a hard protective layer over your natural nail and false tips. The mixture hardens from exposure to air and creates a transparent canvas for regular nail polish",
-                        "Duration(before it wears off)":14,
-                        "Price(Kshs)": 5600
+                        "Durationbeforeitwearsoff":14,
+                        "PriceKshs": 5600
                     },
                     {
                         "id":42,
                         "Name":" Dip Powder ",
                         "Stylist":"Diana Prince",
-                        "Image link":"https://purewows3.imgix.net/images/articles/2018_01/Dip_Powder.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
+                        "Imagelink":"https://purewows3.imgix.net/images/articles/2018_01/Dip_Powder.jpg?auto=format,compress&cs=strip&fit=min&w=728&h=921",
                         "Description":"etween base coats and a sealant, you dip your nails into a little jar of your chosen color. The powder will only stick to the sealant, so it leaves less room for messy cuticles",
-                        "Duration(before it wears off)":25,
-                        "Price(Kshs)": 6000
+                        "Durationbeforeitwearsoff":25,
+                        "PriceKshs": 6000
                     },
                     {
                         "id":43,
                         "Name":"Paraffin manicure",
                         "Stylist":"Amy Adams",
-                        "Image link":"https://purewows3.imgix.net/images/articles/2020_03/paraffin-manicure.jpg?auto=format,compress&cs=strip",
+                        "Imagelink":"https://purewows3.imgix.net/images/articles/2020_03/paraffin-manicure.jpg?auto=format,compress&cs=strip",
                         "Description":" involves dipping your hand in paraffin wax—a colorless, odorless wax derived from beeswax and petroleum—and placing them in plastic gloves and wrapping in a hot towel",
-                        "Duration(before it wears off)":69,
-                        "Price(Kshs)": 2300
+                        "Durationbeforeitwearsoff":69,
+                        "PriceKshs": 2300
                     },
 
                     {
@@ -416,20 +416,20 @@
                 "id":44,
                 "Name":"Massage",
                 "Massuesse":"Amy Adams",
-                "Image link":"https://www.tripsavvy.com/thmb/O0XMFj4wQGAxQXeo5C2chgsmUWs=/950x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/massage-59c1893a03f4020010187e33.jpg",
+                "Imagelink":"https://www.tripsavvy.com/thmb/O0XMFj4wQGAxQXeo5C2chgsmUWs=/950x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/massage-59c1893a03f4020010187e33.jpg",
                 "Description":"the rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain",
-                "Duration(in mins)":20,
-                "Price(Kshs)": 5700
+                "Durationinmins":20,
+                "PriceKshs": 5700
 
             },
             {
                 "id":45,
                 "Name":"Facials",
                 "Stylist":"Ben Affleck",
-                "Image link":"https://image.shutterstock.com/image-photo/therapist-applying-face-mask-young-260nw-413266930.jpg",
+                "Imagelink":"https://image.shutterstock.com/image-photo/therapist-applying-face-mask-young-260nw-413266930.jpg",
                 "Description":" amily of skin care treatments for the face, including steam, exfoliation, extraction, creams, lotions, facial masks, peels, and massage",
                 "Duration":69,
-                "Price(Kshs)": 3300
+                "PriceKshs": 3300
 
             },
           
@@ -437,10 +437,10 @@
                 "id":46,
                 "Name":"Tanning",
                 "Stylist":"Hnery Cavill",
-                "Image link":"https://media.istockphoto.com/photos/woman-getting-solarium-beauty-treatment-picture-id588613294?s=612x612",
+                "Imagelink":"https://media.istockphoto.com/photos/woman-getting-solarium-beauty-treatment-picture-id588613294?s=612x612",
                 "Description":" the action or activity of exposing one's skin to the sun in order to achieve a brown or darkened colour.",
-                "Duration(in mins)":30,
-                "Price(Kshs)": 4000
+                "Durationinmins":30,
+                "PriceKshs": 4000
 
             }
             
@@ -453,8 +453,8 @@
                 "Sex":"Male",
                 "Experience": "3 years",
                 "Tasks":["Pedicure", "Manicure", "Hair-Stylist"],
-                "Client Rating":8.5,
-                "Work Hours":"0900hrs-1600hrs"
+                "ClientRating":8.5,
+                "WorkHours":"0900hrs-1600hrs"
         },
 
         {
@@ -463,8 +463,8 @@
         "Sex":"Male",
         "Experience": "6 years",
         "Tasks":["Pedicure", "Manicure", "Hair-Stylist"],
-        "Client Rating":9.5,
-        "Work Hours":"1000hrs-1800hrs"
+        "ClientRating":9.5,
+        "WorkHours":"1000hrs-1800hrs"
         },
         {
             "id":49,
@@ -472,8 +472,8 @@
             "Sex":"Female",
             "Experience": "2 years",
             "Tasks":["Pedicure", "Manicure","Masseusse", "Hair-Stylist", "Tanner"],
-            "Client Rating":7.8,
-            "Work Hours":"1100hrs-1900hrs"
+            "ClientRating":7.8,
+            "WorkHours":"1100hrs-1900hrs"
             },
             {
                 "id":50,
@@ -481,8 +481,8 @@
                 "Sex":"Female",
                 "Experience": "4.4 years",
                 "Tasks":["Pedicure", "Manicure", "Hair-Stylist","Facials"],
-                "Client Rating":8.8,
-                "Work Hours":"0900hrs-1600hrs"
+                "ClientRating":8.8,
+                "WorkHours":"0900hrs-1600hrs"
                 },
                 {
                     "id":51,
@@ -490,8 +490,8 @@
                     "Sex":"Female",
                     "Experience": "7 years",
                     "Tasks":["Pedicure", "Manicure", "Hair-Stylist", "Tanner", "Masseusse"],
-                    "Client Rating":9.8,
-                    "Work Hours":"0700hrs-1500hrs"
+                    "ClientRating":9.8,
+                    "WorkHours":"0700hrs-1500hrs"
                     }
             
     
